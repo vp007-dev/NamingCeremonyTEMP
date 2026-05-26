@@ -1,0 +1,5 @@
+index.legacy.html
+.git
+node_modules
+*.log
+.DS_Store
